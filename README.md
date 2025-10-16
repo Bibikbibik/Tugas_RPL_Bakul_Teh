@@ -39,7 +39,7 @@ Bakul Teh adalah website bisnis teh yang didirikan pada tahun 2022 oleh Fakturoz
 ## 📁 Struktur Folder
 
 
-Joki/
+Tugas_RPL/
 ├── index.html              # File HTML utama
 ├── Images/                 # Folder untuk gambar
 │   ├── logo.png           # Logo Bakul Teh
